@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # THIS IS A README ABOUT THIS FILE
 
 ## INTRODUCETION
@@ -15,3 +16,7 @@
 - Java project manage
 - The ways to test java mathods
 
+=======
+# JavaSelfLearning
+This is just a private repository for my Java self-study
+>>>>>>> 86db15b42c97049964732b8fc5dfd6ad29f1d9ad
